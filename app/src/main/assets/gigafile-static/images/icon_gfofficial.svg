@@ -1,0 +1,24 @@
+<svg id="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12" height="12" viewBox="0 0 96 96">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #49bb79;
+        stroke-width: 0;
+        stroke: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="48.5" y1="89" x2="48.5" y2="8" gradientUnits="userSpaceOnUse">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <circle id="circle" class="cls-1" cx="48.5" cy="48.5" r="40.5"/>
+  <g id="moji">
+    <path id="_" data-name="✓" class="cls-2" d="M38.063,60.25A39.02,39.02,0,0,1,30,48.063l-3.75,3.375A66.521,66.521,0,0,0,30.938,62.5a29.975,29.975,0,0,0,4.313,6.75,2.549,2.549,0,0,0,1.875.75,3.64,3.64,0,0,0,3-1.312Q49.688,53.5,68.063,30.063l-2.25-1.5A346.988,346.988,0,0,0,38.063,60.25h0Z"/>
+  </g>
+</svg>

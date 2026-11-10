@@ -10,7 +10,7 @@ android {
         applicationId = 'com.gigafile'
         minSdk = 28
         targetSdk = 32
-        versionCode = 9
+        versionCode = 12
         versionName = "1.3.0"
 
         proguardFiles(

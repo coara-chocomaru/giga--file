@@ -1,0 +1,18 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+    }
+plugins {
+    id 'com.android.application' version '9.5.0' apply false
+    id 'com.android.library' version '9.5.0' apply false
+   }
+}
+dependencyResolutionManagement {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "giga"
+include 'app'
